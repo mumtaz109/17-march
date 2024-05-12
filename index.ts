@@ -185,11 +185,11 @@
     }
 
 
+    // nOW WE HAVE TO LEARN TODAY ARRAYS, FUNCTIONS, AND ONE OR TW THINGS MORE.
+    // AFTER I HAVE TO SUBMIT TWO ASSIMENTS ONE IS MISSIG AND ONE IS M  
     
 
-    
-    
 
 
 
-
+//hello world to mumtaz bhai
